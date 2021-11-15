@@ -1,0 +1,18 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    .parsedText p{
+      @apply py-3;
+      @apply font-light;
+      @apply text-sm;
+      @apply pr-2;
+    }
+    .parsedText h3{
+        @apply text-blue-500;
+    }
+    .commonColor {
+      @apply text-blue-500;
+    }
+  }
