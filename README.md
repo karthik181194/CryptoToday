@@ -3,7 +3,7 @@
     <p>CryptoToday displays all information and news about cryptocurrencies and the market.</p>
 </div>
 
-![demo](./public/Capture.png)
+![demo](./public/Capture.PNG)
 
 ## Run it on your machine
 
